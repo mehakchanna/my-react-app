@@ -18,7 +18,7 @@ const toggleTheme = () => {
     </div>
   )
 }
-//implement a 30 second countdown timer that updates every second. Display the remaining time in a visually appealing format.
+ 
 
 
  
