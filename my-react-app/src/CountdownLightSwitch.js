@@ -7,7 +7,7 @@ export default function CountdownLightSwitch() {
 
 const toggleTheme = () => {
   setTheme(theme === 'light'? 'dark' : 'light');
-  document.body.classList.toggle('dark-theme');
+ 
 };
 
   return (
@@ -18,6 +18,8 @@ const toggleTheme = () => {
     </div>
   )
 }
+//implement a 30 second countdown timer that updates every second. Display the remaining time in a visually appealing format.
+
 
  
 
